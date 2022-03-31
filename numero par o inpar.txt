@@ -1,0 +1,14 @@
+Algoritmo sin_titulo
+	Esperar 1 Segundos
+	Escribir "bienvenido"
+	esperar 2 Segundos
+	Escribir "ingrese cualquier numero entero para saber si es par o impar"
+	num= entero
+	leer num
+	
+	Si num%2=0 Entonces
+		Escribir"el numero  " num, "  es par"
+	SiNo
+		Escribir"el nuemro  " num, "  es inpar"
+	Fin Si
+FinAlgoritmo
