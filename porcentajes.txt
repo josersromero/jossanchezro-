@@ -1,0 +1,10 @@
+Algoritmo porcentaje 
+	Definir cantidad,porcent Como numerica
+	Escribir "ingrese un numero"
+    leer cantidad
+	Escribir "ahora ingresa el porcentaje deceado"
+	leer porcent
+	escribir " el porcentaje de  " cantidad "  es  " cantidad*porcent/100
+	Esperar 2 Segundos
+	
+FinAlgoritmo
